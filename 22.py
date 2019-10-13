@@ -1,5 +1,3 @@
-import os
-
 n, m = map(int, input().split())
 
 list = []
